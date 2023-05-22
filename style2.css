@@ -1,0 +1,14 @@
+.background{
+        background-image: url("images/cup.jpeg");
+        background-size: cover;
+        width: 1500px;
+        height: 800px;
+}
+body{
+    color: black; 
+    margin:8px;
+}
+table{
+    border:3px solid black; 
+    margin: 6px;
+}
